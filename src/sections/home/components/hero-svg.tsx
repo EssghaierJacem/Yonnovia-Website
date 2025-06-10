@@ -232,7 +232,7 @@ export function Texts({ sx, ...other }: BoxProps & MotionProps) {
           animate={{ x: ['0%', '-50%'] }}
           transition={{ duration: 64, ease: 'linear', repeat: Infinity }}
         >
-          YonnovIA - MindzKid
+          YonnovIA - Website
         </m.text>
       </Box>
     </Box>
